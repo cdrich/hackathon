@@ -1,0 +1,29 @@
+.welcome{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    height: 159px;
+    width: 282px;
+    left: 369px;
+    top: -67px;
+    border-radius: 0px;
+
+}
+.about{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    height: 159px;
+    width: 282px;
+    left: 369px;
+    top: -67px;
+    border-radius: 0px;
+
+}
+.right_game{
+    margin: 10% 10%;
+}
+.game_footer{
+    position:static;
+    bottom: 1%;
+}
